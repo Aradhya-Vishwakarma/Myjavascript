@@ -1,0 +1,2 @@
+# Myjavascript
+myjourney from yt
